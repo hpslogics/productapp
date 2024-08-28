@@ -1,0 +1,6 @@
+productappuser1@gmail.com
+Pass@123
+
+// Google App Client ID - to access test above email
+587612071620-m98gbvqt73ni90legq5al98dqpma1ftf.apps.googleusercontent.com
+
